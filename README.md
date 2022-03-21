@@ -1,0 +1,2 @@
+# badges
+badges.loli.monster
